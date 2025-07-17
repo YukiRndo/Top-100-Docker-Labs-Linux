@@ -1,4 +1,4 @@
-# 🚀 50 Free Online Labs for Docker, Linux, DevOps & Ethical Hacking
+# 🚀 100 Free Online Labs for Docker, Linux, DevOps & Ethical Hacking
 
 A curated list of online platforms that provide **instant terminal access**, **Docker & Kubernetes playgrounds**, and **hacking labs** — all in your browser, no setup required!
 
@@ -23,6 +23,55 @@ GitHub Codespaces - https://github.com/features/codespaces
 Replit - https://replit.com/  
 Coder - https://coder.com/  
 DevContainers - https://devcontainers.org/  
+Google Cloud Shell - https://cloud.google.com/shell  
+OnWorks – Docker‑start online - https://www.onworks.net/os-distributions/programs/docker-start-online  
+OnWorks – Docker‑run online - https://www.onworks.net/os-distributions/programs/docker-run-online  
+Iximiuz Labs – DevOps Playground - https://labs.iximiuz.com/playgrounds  
+LabEx – Docker Free Labs - https://labex.io/free-labs/docker  
+GetVM – Ubuntu 22.04 Playground - https://getvm.io/playgrounds/terminal-ubuntu-2204  
+GetVM – Fedora 40 Playground - https://getvm.io/playgrounds/terminal-ubuntu-2204  
+GetVM – Debian Bookworm Playground - https://getvm.io/playgrounds/terminal-ubuntu-2204  
+Docker Labs (GitHub) - https://github.com/docker/labs  
+Play with Docker Classroom - https://training.play-with-docker.com  
+LearnDocker Online Sandbox - https://learndocker.online/  
+CoCalc – Terminal Access - https://cocalc.com/  
+Bellard’s JSLinux - https://bellard.org/jslinux/  
+Copy.sh Linux Emulator - https://copy.sh/v86/  
+basher.run – Bash emulator - https://basher.run/  
+Codiad Cloud IDE - https://codiad.com/  
+Coder.com – Cloud VSCode - https://coder.com/  
+code-server (Self-host VSCode) - https://github.com/coder/code-server  
+ttyd – Web Terminal Tool - https://github.com/tsl0922/ttyd  
+Guacamole – Web-based SSH/RDP - https://guacamole.apache.org/  
+Webtop – Full Linux Desktop in Browser - https://github.com/linuxserver/webtop  
+VSCode.dev with Shell - https://github.dev/  
+Termius – Cloud SSH Client - https://www.termius.com/  
+weTTY – Web Terminal - https://github.com/butlerx/wetty  
+CloudCMD – File + Terminal - https://cloudcmd.io/  
+ShellCheck – Bash Linter - https://www.shellcheck.net/  
+Rextester – Bash Compiler - https://rextester.com/l/bash_online_compiler  
+OneCompiler Bash - https://onecompiler.com/bash  
+Ideone Bash IDE - https://ideone.com/  
+Scastie (Scala REPL) - https://scastie.scala-lang.org/  
+CoCalc (CLI sessions) - https://cocalc.com/  
+KASM Workspaces - https://www.kasmweb.com/  
+Khan Academy Code Lab - https://www.khanacademy.org/computing/computer-programming  
+Sequential (JS Runner) - https://sequential.com/  
+intervue.io – Code + Shell Interview Tool - https://intervue.io/  
+Webpaw – Terminal Coding Platform - https://webpaw.com/  
+Liveweave – Code Playground - https://liveweave.com/  
+Plunker – Online IDE - https://plnkr.co/  
+Rust Playground - https://play.rust-lang.org/  
+Python REPL - https://www.python.org/shell/  
+Go Tour REPL - https://tour.golang.org/  
+SQL Fiddle - http://sqlfiddle.com/  
+DB Fiddle - https://dbfiddle.uk/  
+Heroku CLI Web Access - https://heroku.com/cli  
+Glitch – Full-Stack IDE - https://glitch.com/  
+StackBlitz – VSCode + Terminal - https://stackblitz.com/  
+CodeSandbox – Shell-enabled IDE - https://codesandbox.io/  
+GitHub Codespaces - https://github.com/features/codespaces  
+Replit – Browser Shell + Code - https://replit.com/
 
 ---
 
